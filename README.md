@@ -61,8 +61,9 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.rickstaa.dev?user=umaima229&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaima229&theme=tokyonight" />
+</p>
 
 ---
 
