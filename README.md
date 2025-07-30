@@ -43,9 +43,10 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umaima229&theme=onedark" />
-</p>
+### 🏆 GitHub Trophies
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=umaima229&theme=onedark)
+
 
 ---
 
