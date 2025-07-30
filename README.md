@@ -44,24 +44,22 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=umaima229&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=umaima229&theme=gruvbox&no-frame=true&margin-w=15)
+
 
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umaima229&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=umaima229&theme=tokyonight)
+
 
 ---
 
