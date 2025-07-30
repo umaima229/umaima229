@@ -61,10 +61,10 @@
 
 
 
-### 🔥 GitHub Streak
 
-![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?style=for-the-badge&logo=github)
 ### 🔥 GitHub Streak
+![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?style=for-the-badge&logo=github)
+
 
 > Currently maintaining a daily streak on GitHub! 🚀  
 > Keeping the code alive every day 🌙☕
