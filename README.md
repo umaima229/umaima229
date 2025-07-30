@@ -61,13 +61,8 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
- ### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.rickstaa.dev?user=umaima229&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=umaima229&theme=tokyonight)
-
-
-</p>
 
 ---
 
