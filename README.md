@@ -62,7 +62,11 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=umaima229&theme=tokyonight" />
+ ### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=umaima229&theme=tokyonight)
+
+
 </p>
 
 ---
