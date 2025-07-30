@@ -61,9 +61,10 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaima229&theme=tokyonight" />
-</p>
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?style=for-the-badge&logo=github)
+
 
 ---
 
