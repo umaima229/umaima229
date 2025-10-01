@@ -53,13 +53,15 @@
 
 ---
 
-
-
-## 📊 Umaima Malik's GitHub Stats  
+### 🏆 Umaima Malik's GitHub Stats
+ 
 <p align="center">
 
 
-![Umaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
+
+
+![Umaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical&rank_icon=github)
+ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
