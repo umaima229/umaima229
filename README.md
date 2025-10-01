@@ -53,11 +53,16 @@
 
 ---
 
-### 📊 GitHub Stats
+
+
+## 📊 Umaima Malik's GitHub Stats  
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=umaima229&theme=tokyonight&hide_border=false)  
+
+![Umaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
  </p>
 ---
 
