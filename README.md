@@ -81,6 +81,10 @@
 
 
 ---
+## 📈 GitHub Activity Graph
+
+[![Umaima's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=umaima229&theme=react-dark&area=true)](https://github.com/umaima229)
+
 
 ### 🧠 Most Used Languages
 
