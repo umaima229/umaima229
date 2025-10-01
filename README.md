@@ -81,12 +81,6 @@
 
 
 ---
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="githu.PNG" alt="GitHub Activity Graph" />
-</p>
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=prs,issues)
 
 
 
