@@ -83,9 +83,10 @@
 ---
 ## 📈 GitHub Activity Graph
 
-
-
-![GitHub Activity](assets/github-activity.png)
+<p align="center">
+  <img src="githu.png" alt="GitHub Activity Graph" />
+</p>
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=prs,issues)
 
 
 
