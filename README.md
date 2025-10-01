@@ -45,7 +45,8 @@
 ### 🏆 GitHub Trophies
 <p align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=umaima229&theme=gruvbox&no-frame=true&margin-w=15)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=umaima229&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
@@ -55,15 +56,16 @@
 ### 📊 GitHub Stats
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=tokyonight)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=umaima229&theme=tokyonight&hide_border=false)  
  </p>
 ---
 
 
 
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?style=for-the-badge&logo=github)
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=umaima229&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 
 > Currently maintaining a daily streak on GitHub! 🚀  
