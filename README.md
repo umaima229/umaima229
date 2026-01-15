@@ -42,52 +42,42 @@
 ---
 
 
-### 🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=umaima229&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=umaima229&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophy"/>
 </p>
 
-
-
 ---
 
-### 🏆 Umaima Malik's GitHub Stats
- 
+## 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical&hide_border=true" alt="Umaima's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-
-
-![Umaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical&rank_icon=github)
- 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
- </p>
 ---
-
-
-
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=umaima229&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=umaima229&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</p>
 
 > Currently maintaining a daily streak on GitHub! 🚀  
-> Keeping the code alive every day 🌙☕
-
-
+> Keeping my code alive every day 🌙☕
 
 ---
 
-
-
-### 🧠 Most Used Languages
+## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages"/>
 </p>
 
 ---
