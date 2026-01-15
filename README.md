@@ -3,7 +3,7 @@
 <h2 align="center">Hey there! 👋 I'm Umaima Malik</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1eb4eb&center=true&vCenter=true&width=600&lines=Web+%26+App+Developer;Passionate+Learner;Future+Ethical+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=1eb4eb&center=true&vCenter=true&width=600&lines=Web+%26+App+Developer;Passionate+Learner;" alt="Typing SVG" />
 </p>
 
 
