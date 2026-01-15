@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">Hi There's </h2>
 
 <h2 align="center">Hey there! 👋 I'm Umaima Malik</h2>
 
@@ -46,7 +46,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umaima229&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umaima229&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15
+" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -54,11 +55,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical&hide_border=true" alt="Umaima's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umaima229&show_icons=true&theme=radical
+" alt="Umaima's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=radical&hide_border=true)" alt="Top Languages" />
 </p>
 
 ---
@@ -79,6 +81,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaima229&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages"/>
 </p>
+
 
 ---
 
